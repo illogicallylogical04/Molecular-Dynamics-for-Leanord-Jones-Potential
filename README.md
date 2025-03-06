@@ -19,9 +19,8 @@ This project simulates particle dynamics using forces and periodic boundary cond
 - The final simulation result is stored in **[`finish.mp4`](finish.mp4)**, showing the evolution of the system.  
 
 ## How to Run  
-1. Open **MATLAB**.  
-2. Run the script **`PROJECT.m`** to execute the simulation.  
-3. View the final simulation result in **`finish.mp4`**.  
+1. Run the script **`PROJECT.m`** in **MATLAB** to execute the simulation.  
+2. View the final simulation result in **`finish.mp4`**.  
 
 ## Repository Information  
 This project was developed as part of a **semester project** during a master's degree. It is fully wrapped up and not planned for further development.  
